@@ -1,0 +1,119 @@
+****************************************************************************************************
+*****************************************   POPANOYE 1.0   *****************************************
+****************************************************************************************************
+
+FELICITATION VOUS VENEZ D'ACQUERIR POPANOYE 1.0.
+
+**CONDITION D'UTILISATION:
+Executer Qbasic 1.1 (1.1 uniquement) et executer POPANOYE en appuyant sur F5
+Vous possedez donc les sources du jeu ainsi que de l'editeur de niveau.
+Je vous laisse libre cours de modifier les sources a condition que vous m'en informier
+J'espere recevoir du courier temoignant de la qualite du jeu,de ces bugs(et il y en as) ou 
+des ameliorations que vous auriez pu apporter
+Amusez vous bien.
+
+POUR UN BON FONCTIONNEMENT SUIVER LES INSTRUCTIONS SUIVANTES.
+
+ Creer le repertoire POPANOYE puis les sous repertoires SAVE et SON.
+
+Shema:
+      POPANOYE
+        |
+        +-NIVEAUX                      sous winplook 95 deplacer le repertoire POPANOYE
+        |                              de la disquette(ou du Cederom en francais turc belge) 
+        +-SAVE                         en maintenant le bouton gauche de la souris et le deplacer
+        |                              sous C:\ et C:\ uniquement sinon le jeu ne marchera pas
+        +-SON                          car il ne trouvera pas les fichiers
+
+Dans le repertoire POPANOYE doivent se trouver les fichiers suivants:
+      -Popanoye.bas
+      -Editeur.bas
+      -PopDoc.txt
+
+Dans le repertoire SON doivent se trouver les fichiers suivants:
+      -*.wav
+
+Les fichiers du repertoire SAVE se creerons automatiquement,ne vous en soussiez pas.
+
+RENSEIGNEMENT:
+PLATE FORME DE PROGRAMMATION : QBASIC V1.1
+MATERIEL NECESSAIRE:
+       486 SX 33 OU PLUS EVIDEMMENT.          (et oui il vous faut un PC,ce n'est pas une blague)
+       UNE CARTE SOUND BLASTER OU COMPATIBLE. (obligatoire)
+       UNE SOURIS.			      (obligatoire)
+
+
+NOUS CONTACTER:
+email :  exor@netcourrier.com
+web : http://exor.free.fr
+
+                               PROGRAMMER PAR COMBES BERTRAND                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************************************
+***************************************   ASTUCE   *************************************************
+****************************************************************************************************
+ASTUCE 1:
+POUR SAUTER LES NIVEAUX APPUYER UNE FOIS SUR '+' PUIS SUR PAUSE 'P'.
+
+ASTUCE 2:
+NE TOUCHER PAS TROP LE REGLAGE SOURIS CAR IL PLANTE SOUVENT ET ARRETE LE PROGRAMME.
+
+ASTUCE 3:
+QUAND VOUS QUITTER L'EDITEUR PAR LA TOUCHE F3 LE NIVEAU TEL QU'IL A L'ECRAN EST
+SAUVEGARDER DANS LE FICHIER 'a.bas'.
+
+ASTUCE 4:
+LORSQU'UNE ERREUR SE PRODUIT DANS L'EDITEUR TON NIVEAU N'EST PAS PERDU IL EST 
+SAUVEGARDER DANS LE FICHIER 'a.bas'.
+
+ASTUCE 5:
+VERIFIE TOUJOUR LE FICHIER 'a.bas' IL Y A SOUVENT T'AS DERNIERE CREATION.
+
+ASTUCE 6:
+QUAND TU JOUE A POPANOYE TU PEUT LANCER LA BALLE DANS LA DIRECTION QUE TU
+VEUT EN CLIQUANT SUR LE BOUTON GAUCHE OU DROITE DE LA SOURIS.
+
+ASTUCE 7:
+REGLE LA VITESSE POUR QUE LA BALLE AILLE A LA VITESSE QUI TE CONVIENT LE
+MIEUX.PLUS CE CHIFFRE EST PETIT PLUS LA BALLE VA VITE,MAIS NE DESCENT PAS EN
+DESSOUS DE 0.
+
+
+
+
+
+
